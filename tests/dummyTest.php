@@ -1,5 +1,7 @@
 <?php
 
+
+
 namespace  Freezer\tests\Dummy;
 
 class StackTest extends \PHPUnit_Framework_TestCase
